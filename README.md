@@ -1,5 +1,5 @@
 # INTRODUCTION
-Alongside studying HTML and CSS tutorials from Dash General Assembly, you need to practice HTML and CSS extensively to hone your Frontend Development skills. Here is a list of exercises we published till now.
+Alongside studying HTML and CSS tutorials from Dash General Assembly, you need to practice HTML and CSS extensively to hone your Frontend Development skills. Here is a list of exercises I have published for you till now.
 * [Create a simple HTML page with title, heading, paragraph emphasise strong and image element](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/1)
 * [Create a complex HTML table](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/2)
 * [Create a simple HTML form covering major form elements](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/3)
