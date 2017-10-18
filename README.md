@@ -9,3 +9,5 @@ Alongside studying HTML and CSS tutorials from Dash General Assembly, you need t
 * [Create a css based sticky footer](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/7)
 * [Style first letter and first line](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/8)
 * [Style first and last element](https://github.com/Quirky30DevFest/Beginner_Exercises/issues/9)
+
+## [YOUR NEXT TASK](https://github.com/Quirky30DevFest/One_Page_website)
